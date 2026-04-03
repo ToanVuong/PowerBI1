@@ -306,7 +306,7 @@ Based on the dashboard screenshots and measures:
 ---
 
 ## 🚀 How to Use
-1. Open the `.pbix` file in **Power BI Desktop**
+1. Open the `project_superstore.pbix` file in **Power BI Desktop**
 2. Refresh the dataset if necessary
 3. Navigate through the report pages
 4. Use filters/slicers such as:
@@ -319,19 +319,6 @@ Based on the dashboard screenshots and measures:
 
 ---
 
-## 📁 Suggested Repository Structure
-```text
-Superstore-PowerBI-Dashboard/
-│── README.md
-│── Superstore Dashboard.pbix
-│── image.jpg
-│── image (11).png
-│── image (13).png
-│── image (14).png
-│── image (15).png
-```
-
----
 
 ## 👨‍💻 Author
 **Vuong Minh Toan**
