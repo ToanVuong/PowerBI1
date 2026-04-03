@@ -212,35 +212,35 @@ Zero Target = 0
 High-level summary of sales, profit, customer base, orders, market contribution, and key business observations.
 
 <p align="center">
-  <img src="image.jpg" alt="Executive Overview" width="92%">
+  <img src="overview.png" alt="Executive Overview" width="92%">
 </p>
 
 ### 2️⃣ Business Insights Dashboard
 Tracks core KPIs and business performance trends by quarter, market, segment, category, and top product subcategories.
 
 <p align="center">
-  <img src="image%20%2811%29.png" alt="Business Insights Dashboard" width="92%">
+  <img src="business insight.png" alt="Business Insights Dashboard" width="92%">
 </p>
 
 ### 3️⃣ Product Insights Dashboard
 Focuses on product performance, profitability, monthly trend, subcategory analysis, and the distribution of sales vs. profit.
 
 <p align="center">
-  <img src="image%20%2814%29.png" alt="Product Insights Dashboard" width="92%">
+  <img src="product insight.png" alt="Product Insights Dashboard" width="92%">
 </p>
 
 ### 4️⃣ Market Insights Dashboard
 Explores customer, market, country, region, return, and profitability performance across geographies.
 
 <p align="center">
-  <img src="image%20%2813%29.png" alt="Market Insights Dashboard" width="92%">
+  <img src="market insight.png" alt="Market Insights Dashboard" width="92%">
 </p>
 
 ### 5️⃣ Employee Insights Dashboard
 Analyzes employee-level sales, profit, YoY performance, and return rate contribution by market.
 
 <p align="center">
-  <img src="image%20%2815%29.png" alt="Employee Insights Dashboard" width="92%">
+  <img src="employee insight.png" alt="Employee Insights Dashboard" width="92%">
 </p>
 
 ---
