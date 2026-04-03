@@ -212,7 +212,7 @@ Zero Target = 0
 High-level summary of sales, profit, customer base, orders, market contribution, and key business observations.
 
 <p align="center">
-  <img src="overview.png" alt="Executive Overview" width="92%">
+  <img src="overview.jpg" alt="Executive Overview" width="92%">
 </p>
 
 ### 2️⃣ Business Insights Dashboard
